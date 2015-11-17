@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongodb_Model", "Mongodb_Model\Mongodb_Model.csproj", "{507E6BCA-F577-4492-BC96-F2E4F0B631F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb_Repository", "MongoDb_Repository\MongoDb_Repository.csproj", "{965FFC33-E703-4DC8-9085-D05726CE4519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository_test", "Repository_test\Repository_test.csproj", "{713B229D-DDBC-4C0A-B0F5-DE7FD0F68679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoMVC", "MongoMVC\MongoMVC.csproj", "{E89055BF-FC32-4C25-BDBD-644EE2EB1388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{507E6BCA-F577-4492-BC96-F2E4F0B631F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507E6BCA-F577-4492-BC96-F2E4F0B631F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507E6BCA-F577-4492-BC96-F2E4F0B631F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507E6BCA-F577-4492-BC96-F2E4F0B631F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965FFC33-E703-4DC8-9085-D05726CE4519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965FFC33-E703-4DC8-9085-D05726CE4519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965FFC33-E703-4DC8-9085-D05726CE4519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965FFC33-E703-4DC8-9085-D05726CE4519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713B229D-DDBC-4C0A-B0F5-DE7FD0F68679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713B229D-DDBC-4C0A-B0F5-DE7FD0F68679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713B229D-DDBC-4C0A-B0F5-DE7FD0F68679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713B229D-DDBC-4C0A-B0F5-DE7FD0F68679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89055BF-FC32-4C25-BDBD-644EE2EB1388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89055BF-FC32-4C25-BDBD-644EE2EB1388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89055BF-FC32-4C25-BDBD-644EE2EB1388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89055BF-FC32-4C25-BDBD-644EE2EB1388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

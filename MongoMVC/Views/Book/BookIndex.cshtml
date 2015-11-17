@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "BookIndex";
+}
+@using MongoMVC
+@model MongoMVC.Models.BookViewModel
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Cerca", "Book", FormMethod.Post))
+{
+
+    <tr>
+        <td align="right" class="noRequiredLabel">
+            @Html.Label("Titolo:")
+        </td>
+        <td>
+            @Html.TextBoxFor(m => m.Titolo)
+        </td>
+        <td>
+            <input type="submit" value="Cerca" name="Cerca" />
+
+        </td>
+    </tr>
+}
+@using (Html.BeginForm("CercaAutore", "Book", FormMethod.Post))
+{
+    <tr>
+        <td align="right" class="noRequiredLabel">
+            @Html.Label("Autore:")
+        </td>
+        <td>
+            @Html.TextBoxFor(m => m.Autore)
+        </td>
+        <td>
+            <input type="submit" value="Cerca" name="CercaAutore" />
+
+        </td>
+    </tr>
+}
+@using (Html.BeginForm("Aggiungi", "Book", FormMethod.Post))
+{
+    <input type="submit" value="Aggiungi" name="Aggiungi" />
+}

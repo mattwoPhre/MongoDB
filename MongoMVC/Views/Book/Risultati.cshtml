@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Risultati";
+}
+@using Mongodb_Model
+@using MongoMVC.Models
+
+@model BookRisultatiViewModel
+@{
+    var grid = new WebGrid(Model.books, canPage:true, rowsPerPage:30);
+    grid.Pager(WebGridPagerModes.NextPrevious);
+}
+@using (Html.BeginForm("Cerca", "Book", FormMethod.Post))
+{
+    <h2>Risultati Libro</h2>
+    <div>
+    @grid.GetHtml(htmlAttributes: new {id = "result"},
+    columns: grid.Columns(grid.Column("Id","Id", format: (item) => item.Id),
+                            grid.Column("Titolo","Titolo", format: (item) => item.Title),
+                            grid.Column("Autore","Autore", format: (item) => item.Author),
+                            grid.Column("ISBN", "ISBN", format: (item) => item.ISBN),
+                            grid.Column("Publisher", "Publisher", format: (item) => item.Publisher),
+                            grid.Column(header: "", format: item => new HtmlString(
+                               @Html.ActionLink("Cancella", "CancellaLibro", new { id = item.Id }).ToString())),
+                            grid.Column(header: "", format: item => new HtmlString(
+                               @Html.ActionLink("Modifica", "ModificaLibro", new { id = item.Id }).ToString()))))
+
+    </div>
+}

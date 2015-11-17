@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "ModificaLibro";
+}
+
+@using MongoMVC.Controllers
+@model MongoMVC.Models.BookRisultatiViewModel
+@{
+    var grid = new WebGrid(new[] {Model.__book});
+}
+
+<h2>ModificaLibro</h2>
+
+<div class="module_content">
+    @using (Html.BeginForm("SalvaModifiche", "Book", FormMethod.Post))
+            {
+       <div style="width: 100%">
+            @grid.GetHtml(htmlAttributes: new { id = "result" },
+    columns: grid.Columns(grid.Column("Id", "Id", format: (item) => new HtmlString(@Html.TextBoxFor(m => m.Id, new {@readonly = "true"}).ToString()) ),
+                            grid.Column("Titolo", "Titolo", format: (item) => new HtmlString(@Html.TextBoxFor(m => m.Titolo).ToString())),
+                            grid.Column("Autore", "Autore", format: (item) => new HtmlString(@Html.TextBoxFor(m => m.Autore).ToString())),
+                            grid.Column("ISBN", "ISBN", format: (item) => new HtmlString(@Html.TextBoxFor( m => m.Isbn).ToString())),
+                            grid.Column("Publisher", "Publisher", format: (item) => new HtmlString(@Html.TextBoxFor( m => m.Publisher).ToString()))))
+
+            <input id="SalvaModifiche" name="SalvaModifiche" value="Aggiungi" type="submit">
+   
+    
+        </div>
+    }

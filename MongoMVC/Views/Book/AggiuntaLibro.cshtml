@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewBag.Title = "AggiuntaLibro";
+}
+
+<h2>AggiuntaLibro</h2>
+
+<div class="module_content">
+    @using (Html.BeginForm("AggiuntaLibro", "Book", FormMethod.Post))
+            {
+        <table align="center">
+
+            <tbody>
+
+                <tr>
+                    <td align="right">
+                        <label class="labelRequired">
+                            ISBN:
+
+                        </label>
+                    </td>
+                    <td>
+                        <input role="textbox" autocomplete="off" value=""
+                               class="customInputText  " name="isbn"
+                               id="isbn" type="text" placeholder="Inserire titolo libro" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td align="right">
+                        <label class="labelRequired">
+                            Title :
+
+                        </label>
+                    </td>
+                    <td>
+                        <input role="textbox" autocomplete="off" value=""
+                               class="customInputText" name="title"
+                               id="title" type="text" autofocus placeholder="Insert book's title'" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td align="right">
+                        <label class="labelRequired">
+                            Author :
+
+                        </label>
+                    </td>
+                    <td>
+                        <input role="textbox" autocomplete="off" value=""
+                               class="customInputText" name="author"
+                               id="author" type="text" autofocus placeholder="Inserit book's isbn'" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td align="right">
+                        <label class="labelRequired">
+                            Publisher :
+
+                        </label>
+                    </td>
+                    <td>
+                        <input role="textbox" autocomplete="off" value=""
+                               class="customInputText" name="publisher"
+                               id="publisher" type="text" autofocus placeholder="Insert book's publisher'" />
+                    </td>
+                </tr>
+
+            <tr>
+                    <td colspan="2" align="center">
+                        <input id="AggiuntaLibro" name="AggiuntaLibro" value="Aggiungi" type="submit">
+                        <input id="resetta" name="action:Resetta" value="Annulla" type="reset">
+                    </td>
+                </tr>
+            </tbody>
+
+
+        </table>
+
+
+    }
+</div>
+
+
+
