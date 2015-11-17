@@ -1,0 +1,143 @@
+/* 1 */
+{
+    "_id" : ObjectId("5645bdf8902888365c401846"),
+    "ISBN" : null,
+    "Title" : "Second Best Mongodb Starter",
+    "Author" : "John Smith",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest Publisher",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5645bdf8902888365c401847"),
+    "ISBN" : "12254-444447Different",
+    "Title" : "Best Mongodb StarterDifferent",
+    "Author" : "John Smith Different",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest PublisherDifferent",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5645bdf8902888365c401848"),
+    "ISBN" : "12254-444447",
+    "Title" : "Best Mongodb Starter",
+    "Author" : "John Smith",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest Publisher",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5645bdf9902888365c401849"),
+    "ISBN" : "12254-444447",
+    "Title" : "Best Mongodb Starter",
+    "Author" : "John Smith",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest Publisher",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5645bdf9902888365c40184a"),
+    "ISBN" : "12254-444447Different",
+    "Title" : "Best Mongodb StarterDifferent",
+    "Author" : "John Smith Different",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest PublisherDifferent",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5645bdf9902888365c40184c"),
+    "ISBN" : "12254-444447",
+    "Title" : "Best Mongodb Starter",
+    "Author" : "John Smith",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest Publisher",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5645bdf9902888365c40184e"),
+    "ISBN" : "12254-444447",
+    "Title" : "Best Mongodb Starter",
+    "Author" : "John Smith",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest Publisher",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5645bdf9902888365c40184f"),
+    "ISBN" : "12254-444447Different",
+    "Title" : "Best Mongodb StarterDifferent",
+    "Author" : "John Smith Different",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest PublisherDifferent",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5645be389028883f7c7f4628"),
+    "ISBN" : "12254-444447Different",
+    "Title" : "Best Mongodb StarterDifferent",
+    "Author" : "John Smith Different",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Greatest PublisherDifferent",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5649ea6a5b198914fc3a84b4"),
+    "ISBN" : "235245252jhyvuyv2354235",
+    "Title" : "Il tesoro perduto",
+    "Author" : "John Jack Johnson",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "L'editore editore",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5649eaf15b198928200518ff"),
+    "ISBN" : "aaa",
+    "Title" : "bbb",
+    "Author" : "ccc",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "Capitello Editore",
+    "ImageUrls" : null,
+    "Ratings" : null
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("564aec8d5b19892870e33266"),
+    "ISBN" : "aaa",
+    "Title" : "bbb",
+    "Author" : "assssssssss",
+    "Published" : Date(-62135596800000),
+    "Publisher" : "ddd",
+    "ImageUrls" : null,
+    "Ratings" : null
+}

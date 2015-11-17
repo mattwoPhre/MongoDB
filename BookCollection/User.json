@@ -1,0 +1,1200 @@
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146025"
+  },
+  "UserId": 1,
+  "Age": 0,
+  "Location": {
+    "City": "nyc",
+    "State": "new york",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146026"
+  },
+  "UserId": 2,
+  "Age": 18,
+  "Location": {
+    "City": "stockton",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146027"
+  },
+  "UserId": 3,
+  "Age": 0,
+  "Location": {
+    "City": "moscow",
+    "State": "yukon territory",
+    "Country": "russia"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146028"
+  },
+  "UserId": 4,
+  "Age": 17,
+  "Location": {
+    "City": "porto",
+    "State": "v.n.gaia",
+    "Country": "portugal"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146029"
+  },
+  "UserId": 5,
+  "Age": 0,
+  "Location": {
+    "City": "farnborough",
+    "State": "hants",
+    "Country": "united kingdom"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814602a"
+  },
+  "UserId": 6,
+  "Age": 61,
+  "Location": {
+    "City": "santa monica",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814602b"
+  },
+  "UserId": 7,
+  "Age": 0,
+  "Location": {
+    "City": "washington",
+    "State": "dc",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814602c"
+  },
+  "UserId": 8,
+  "Age": 0,
+  "Location": {
+    "City": "timmins",
+    "State": "ontario",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814602d"
+  },
+  "UserId": 9,
+  "Age": 0,
+  "Location": {
+    "City": "germantown",
+    "State": "tennessee",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814602e"
+  },
+  "UserId": 10,
+  "Age": 26,
+  "Location": {
+    "City": "albacete",
+    "State": "wisconsin",
+    "Country": "spain"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814602f"
+  },
+  "UserId": 11,
+  "Age": 14,
+  "Location": {
+    "City": "melbourne",
+    "State": "victoria",
+    "Country": "australia"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146030"
+  },
+  "UserId": 12,
+  "Age": 0,
+  "Location": {
+    "City": "fort bragg",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146031"
+  },
+  "UserId": 13,
+  "Age": 26,
+  "Location": {
+    "City": "barcelona",
+    "State": "barcelona",
+    "Country": "spain"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146032"
+  },
+  "UserId": 14,
+  "Age": 0,
+  "Location": {
+    "City": "mediapolis",
+    "State": "iowa",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146033"
+  },
+  "UserId": 15,
+  "Age": 0,
+  "Location": {
+    "City": "calgary",
+    "State": "alberta",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146034"
+  },
+  "UserId": 16,
+  "Age": 0,
+  "Location": {
+    "City": "albuquerque",
+    "State": "new mexico",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146035"
+  },
+  "UserId": 17,
+  "Age": 0,
+  "Location": {
+    "City": "chesapeake",
+    "State": "virginia",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146036"
+  },
+  "UserId": 18,
+  "Age": 25,
+  "Location": {
+    "City": "rio de janeiro",
+    "State": "rio de janeiro",
+    "Country": "brazil"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146037"
+  },
+  "UserId": 19,
+  "Age": 14,
+  "Location": {
+    "City": "weston",
+    "State": "",
+    "Country": ""
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146038"
+  },
+  "UserId": 20,
+  "Age": 19,
+  "Location": {
+    "City": "langhorne",
+    "State": "pennsylvania",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146039"
+  },
+  "UserId": 21,
+  "Age": 46,
+  "Location": {
+    "City": "ferrol / spain",
+    "State": "alabama",
+    "Country": "spain"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814603a"
+  },
+  "UserId": 22,
+  "Age": 0,
+  "Location": {
+    "City": "erfurt",
+    "State": "thueringen",
+    "Country": "germany"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814603b"
+  },
+  "UserId": 23,
+  "Age": 0,
+  "Location": {
+    "City": "philadelphia",
+    "State": "pennsylvania",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814603c"
+  },
+  "UserId": 24,
+  "Age": 19,
+  "Location": {
+    "City": "cologne",
+    "State": "nrw",
+    "Country": "germany"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814603d"
+  },
+  "UserId": 25,
+  "Age": 55,
+  "Location": {
+    "City": "oakland",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814603e"
+  },
+  "UserId": 26,
+  "Age": 0,
+  "Location": {
+    "City": "bellevue",
+    "State": "washington",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814603f"
+  },
+  "UserId": 27,
+  "Age": 32,
+  "Location": {
+    "City": "chicago",
+    "State": "illinois",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146040"
+  },
+  "UserId": 28,
+  "Age": 24,
+  "Location": {
+    "City": "freiburg",
+    "State": "baden-wuerttemberg",
+    "Country": "germany"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146041"
+  },
+  "UserId": 29,
+  "Age": 19,
+  "Location": {
+    "City": "cuernavaca",
+    "State": "alabama",
+    "Country": "mexico"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146042"
+  },
+  "UserId": 30,
+  "Age": 24,
+  "Location": {
+    "City": "anchorage",
+    "State": "alaska",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146043"
+  },
+  "UserId": 31,
+  "Age": 20,
+  "Location": {
+    "City": "shanghai",
+    "State": "n/a",
+    "Country": "china"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146044"
+  },
+  "UserId": 32,
+  "Age": 0,
+  "Location": {
+    "City": "portland",
+    "State": "oregon",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146045"
+  },
+  "UserId": 33,
+  "Age": 34,
+  "Location": {
+    "City": "costa mesa",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146046"
+  },
+  "UserId": 34,
+  "Age": 0,
+  "Location": {
+    "City": "london",
+    "State": "england",
+    "Country": "united kingdom"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146047"
+  },
+  "UserId": 35,
+  "Age": 17,
+  "Location": {
+    "City": "grafton",
+    "State": "wisconsin",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146048"
+  },
+  "UserId": 36,
+  "Age": 24,
+  "Location": {
+    "City": "montreal",
+    "State": "quebec",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146049"
+  },
+  "UserId": 37,
+  "Age": 23,
+  "Location": {
+    "City": "san sebastian",
+    "State": "n/a",
+    "Country": "spain"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814604a"
+  },
+  "UserId": 38,
+  "Age": 34,
+  "Location": {
+    "City": "viterbo",
+    "State": "lazio",
+    "Country": "italy"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814604b"
+  },
+  "UserId": 39,
+  "Age": 0,
+  "Location": {
+    "City": "cary",
+    "State": "north carolina",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814604c"
+  },
+  "UserId": 40,
+  "Age": 32,
+  "Location": {
+    "City": "tonawanda",
+    "State": "new york",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814604d"
+  },
+  "UserId": 41,
+  "Age": 14,
+  "Location": {
+    "City": "santee",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814604e"
+  },
+  "UserId": 42,
+  "Age": 17,
+  "Location": {
+    "City": "appleton",
+    "State": "wisconsin",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814604f"
+  },
+  "UserId": 43,
+  "Age": 0,
+  "Location": {
+    "City": "m?xico",
+    "State": "m?xico city",
+    "Country": "distrito federal"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146050"
+  },
+  "UserId": 44,
+  "Age": 51,
+  "Location": {
+    "City": "black mountain",
+    "State": "north carolina",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146051"
+  },
+  "UserId": 45,
+  "Age": 0,
+  "Location": {
+    "City": "berlin",
+    "State": "n/a",
+    "Country": "germany"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146052"
+  },
+  "UserId": 46,
+  "Age": 31,
+  "Location": {
+    "City": "heidelberg",
+    "State": "baden-wuerttemberg",
+    "Country": "germany"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146053"
+  },
+  "UserId": 47,
+  "Age": 21,
+  "Location": {
+    "City": "vicenza",
+    "State": "veneto",
+    "Country": "italy"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146054"
+  },
+  "UserId": 48,
+  "Age": 0,
+  "Location": {
+    "City": "chicago",
+    "State": "illinois",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146055"
+  },
+  "UserId": 49,
+  "Age": 0,
+  "Location": {
+    "City": "rome",
+    "State": "rome",
+    "Country": "italy"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146056"
+  },
+  "UserId": 50,
+  "Age": 17,
+  "Location": {
+    "City": "london",
+    "State": "england",
+    "Country": "united kingdom"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146057"
+  },
+  "UserId": 51,
+  "Age": 34,
+  "Location": {
+    "City": "renton",
+    "State": "washington",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146058"
+  },
+  "UserId": 52,
+  "Age": 0,
+  "Location": {
+    "City": "braunschweig",
+    "State": "niedersachsen",
+    "Country": "germany"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146059"
+  },
+  "UserId": 53,
+  "Age": 0,
+  "Location": {
+    "City": "tacoma",
+    "State": "washington",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814605a"
+  },
+  "UserId": 54,
+  "Age": 44,
+  "Location": {
+    "City": "eubank",
+    "State": "kentucky",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814605b"
+  },
+  "UserId": 55,
+  "Age": 0,
+  "Location": {
+    "City": "calgary",
+    "State": "alberta",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814605c"
+  },
+  "UserId": 56,
+  "Age": 24,
+  "Location": {
+    "City": "cheyenne",
+    "State": "wyoming",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814605d"
+  },
+  "UserId": 57,
+  "Age": 0,
+  "Location": {
+    "City": "roma",
+    "State": "lazio",
+    "Country": "italy"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814605e"
+  },
+  "UserId": 58,
+  "Age": 0,
+  "Location": {
+    "City": "edmonton",
+    "State": "alberta",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814605f"
+  },
+  "UserId": 59,
+  "Age": 23,
+  "Location": {
+    "City": "asheville",
+    "State": "north carolina",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146060"
+  },
+  "UserId": 60,
+  "Age": 0,
+  "Location": {
+    "City": "trieste",
+    "State": "friuli venezia giulia",
+    "Country": "italy"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146061"
+  },
+  "UserId": 61,
+  "Age": 30,
+  "Location": {
+    "City": "winfield",
+    "State": "alabama",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146062"
+  },
+  "UserId": 62,
+  "Age": 0,
+  "Location": {
+    "City": "kennewick",
+    "State": "washington",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146063"
+  },
+  "UserId": 63,
+  "Age": 57,
+  "Location": {
+    "City": "nyack",
+    "State": "new york",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146064"
+  },
+  "UserId": 64,
+  "Age": 32,
+  "Location": {
+    "City": "lyon",
+    "State": "rhone",
+    "Country": "france"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146065"
+  },
+  "UserId": 65,
+  "Age": 0,
+  "Location": {
+    "City": "n/a",
+    "State": "n/a",
+    "Country": "australia"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146066"
+  },
+  "UserId": 66,
+  "Age": 30,
+  "Location": {
+    "City": "warman",
+    "State": "saskatchewan",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146067"
+  },
+  "UserId": 67,
+  "Age": 43,
+  "Location": {
+    "City": "framingham",
+    "State": "massachusetts",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146068"
+  },
+  "UserId": 68,
+  "Age": 0,
+  "Location": {
+    "City": "montreal",
+    "State": "quebec",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146069"
+  },
+  "UserId": 69,
+  "Age": 0,
+  "Location": {
+    "City": "vancouver",
+    "State": "british columbia",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814606a"
+  },
+  "UserId": 70,
+  "Age": 44,
+  "Location": {
+    "City": "rochester",
+    "State": "new york",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814606b"
+  },
+  "UserId": 71,
+  "Age": 24,
+  "Location": {
+    "City": "toronto",
+    "State": "ontario",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814606c"
+  },
+  "UserId": 72,
+  "Age": 34,
+  "Location": {
+    "City": "gloucester",
+    "State": "england",
+    "Country": "united kingdom"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814606d"
+  },
+  "UserId": 73,
+  "Age": 0,
+  "Location": {
+    "City": "wentzville",
+    "State": "missouri",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814606e"
+  },
+  "UserId": 74,
+  "Age": 30,
+  "Location": {
+    "City": "amsterdam",
+    "State": "n/a",
+    "Country": "netherlands"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814606f"
+  },
+  "UserId": 75,
+  "Age": 37,
+  "Location": {
+    "City": "long beach",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146070"
+  },
+  "UserId": 76,
+  "Age": 0,
+  "Location": {
+    "City": "charleston",
+    "State": "south carolina",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146071"
+  },
+  "UserId": 77,
+  "Age": 0,
+  "Location": {
+    "City": "vancouver",
+    "State": "british columbia",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146072"
+  },
+  "UserId": 78,
+  "Age": 18,
+  "Location": {
+    "City": "oakland",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146073"
+  },
+  "UserId": 79,
+  "Age": 20,
+  "Location": {
+    "City": "ottawa",
+    "State": "ontario",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146074"
+  },
+  "UserId": 80,
+  "Age": 0,
+  "Location": {
+    "City": "etobicoke",
+    "State": "ontario",
+    "Country": "canada"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146075"
+  },
+  "UserId": 81,
+  "Age": 0,
+  "Location": {
+    "City": "santa cruz",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146076"
+  },
+  "UserId": 82,
+  "Age": 0,
+  "Location": {
+    "City": "del mar",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146077"
+  },
+  "UserId": 83,
+  "Age": 0,
+  "Location": {
+    "City": "eugene",
+    "State": "oregon",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146078"
+  },
+  "UserId": 84,
+  "Age": 0,
+  "Location": {
+    "City": "san diago",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146079"
+  },
+  "UserId": 85,
+  "Age": 41,
+  "Location": {
+    "City": "london",
+    "State": "england",
+    "Country": "united kingdom"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814607a"
+  },
+  "UserId": 86,
+  "Age": 0,
+  "Location": {
+    "City": "los angeles",
+    "State": "california",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814607b"
+  },
+  "UserId": 87,
+  "Age": 0,
+  "Location": {
+    "City": "richardson",
+    "State": "texas",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814607c"
+  },
+  "UserId": 88,
+  "Age": 0,
+  "Location": {
+    "City": "fayetteville",
+    "State": "georgia",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814607d"
+  },
+  "UserId": 89,
+  "Age": 54,
+  "Location": {
+    "City": "plano",
+    "State": "texas",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814607e"
+  },
+  "UserId": 90,
+  "Age": 42,
+  "Location": {
+    "City": "powhatan",
+    "State": "virginia",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb219814607f"
+  },
+  "UserId": 91,
+  "Age": 0,
+  "Location": {
+    "City": "toronto/newmarket",
+    "State": "",
+    "Country": ""
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146080"
+  },
+  "UserId": 92,
+  "Age": 20,
+  "Location": {
+    "City": "castellar del valles",
+    "State": "barcelona",
+    "Country": "spain"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146081"
+  },
+  "UserId": 93,
+  "Age": 50,
+  "Location": {
+    "City": "eden",
+    "State": "wisconsin",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146082"
+  },
+  "UserId": 94,
+  "Age": 39,
+  "Location": {
+    "City": "tehran",
+    "State": "tehran",
+    "Country": "iraq"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146083"
+  },
+  "UserId": 95,
+  "Age": 0,
+  "Location": {
+    "City": "grand island",
+    "State": "new york",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146084"
+  },
+  "UserId": 96,
+  "Age": 0,
+  "Location": {
+    "City": "helsinki",
+    "State": "alaska",
+    "Country": "finland"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146085"
+  },
+  "UserId": 97,
+  "Age": 0,
+  "Location": {
+    "City": "mechanicsburg",
+    "State": "pennsylvania",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146086"
+  },
+  "UserId": 98,
+  "Age": 19,
+  "Location": {
+    "City": "pukekohe",
+    "State": "auckland",
+    "Country": "new zealand"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146087"
+  },
+  "UserId": 99,
+  "Age": 42,
+  "Location": {
+    "City": "franktown",
+    "State": "colorado",
+    "Country": "usa"
+  }
+}
+{
+  "_id": {
+    "$oid": "525867733a93bb2198146088"
+  },
+  "UserId": 100,
+  "Age": 44,
+  "Location": {
+    "City": "madrid",
+    "State": "n/a",
+    "Country": "spain"
+  }
+}
