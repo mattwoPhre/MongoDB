@@ -90,7 +90,7 @@ namespace Repository_test
 
             var books = _repository.FindByAuthor(Author).OrderBy(x => x.Title).ToList();
 
-            Assert.AreEqual(9, books.Count);
+            Assert.AreEqual(5, books.Count);
             var foundBook = books[0];
 
             Assert.AreNotSame(_expectedBook, foundBook);
