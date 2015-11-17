@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository_test", "Reposito
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoMVC", "MongoMVC\MongoMVC.csproj", "{E89055BF-FC32-4C25-BDBD-644EE2EB1388}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb_Prova_Console", "MongoDb_Prova_Console\MongoDb_Prova_Console.csproj", "{931644D8-2363-48C9-851C-AEFB07A47DEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E89055BF-FC32-4C25-BDBD-644EE2EB1388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E89055BF-FC32-4C25-BDBD-644EE2EB1388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E89055BF-FC32-4C25-BDBD-644EE2EB1388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931644D8-2363-48C9-851C-AEFB07A47DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931644D8-2363-48C9-851C-AEFB07A47DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931644D8-2363-48C9-851C-AEFB07A47DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931644D8-2363-48C9-851C-AEFB07A47DEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
