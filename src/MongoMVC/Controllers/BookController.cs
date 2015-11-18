@@ -58,6 +58,8 @@ namespace MongoMVC.Controllers
         {
             List<Book> listaLibriAutori = _repo.FindByAuthor(autore).ToList();
 
+			TempData["Model"] = listaLibriAutori;
+			
             return View("RisultatiAutori", new BookRisultatiViewModel(listaLibriAutori));
         }
 
